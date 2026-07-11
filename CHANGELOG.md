@@ -1,3 +1,12 @@
+## [1.12.6](https://github.com/CoCreate-app/CoCreate-fullscreen/compare/v1.12.5...v1.12.6) (2026-07-11)
+
+
+### Bug Fixes
+
+* bump package versions ([5647a35](https://github.com/CoCreate-app/CoCreate-fullscreen/commit/5647a35d9a6bcce1a89808331d3a27f5d3f996e0))
+* removed post install and add add packages to apprved list ([3d5c2c0](https://github.com/CoCreate-app/CoCreate-fullscreen/commit/3d5c2c0cd80d0145b45ba72168ff646a46e6297a))
+* semantic version handling ([17b079e](https://github.com/CoCreate-app/CoCreate-fullscreen/commit/17b079ec480bf7f14bf92844dbfb1b64186a2bd4))
+
 ## [1.12.5](https://github.com/CoCreate-app/CoCreate-fullscreen/compare/v1.12.4...v1.12.5) (2026-02-04)
 
 
