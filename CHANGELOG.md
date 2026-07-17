@@ -1,3 +1,10 @@
+## [1.13.1](https://github.com/CoCreate-app/CoCreate-fullscreen/compare/v1.13.0...v1.13.1) (2026-07-17)
+
+
+### Bug Fixes
+
+* bump dependencies ([f4449e7](https://github.com/CoCreate-app/CoCreate-fullscreen/commit/f4449e7b8310c4fc1e0dbc5ec61f84a4495076be))
+
 # [1.13.0](https://github.com/CoCreate-app/CoCreate-fullscreen/compare/v1.12.6...v1.13.0) (2026-07-17)
 
 
