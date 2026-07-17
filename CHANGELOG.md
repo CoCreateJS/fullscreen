@@ -1,3 +1,10 @@
+# [1.13.0](https://github.com/CoCreate-app/CoCreate-fullscreen/compare/v1.12.6...v1.13.0) (2026-07-17)
+
+
+### Features
+
+* update automated workflow and release configuration for improved semantic release handling ([9f981d4](https://github.com/CoCreate-app/CoCreate-fullscreen/commit/9f981d4f301f91ba014832572cdd11af6b483387))
+
 ## [1.12.6](https://github.com/CoCreate-app/CoCreate-fullscreen/compare/v1.12.5...v1.12.6) (2026-07-11)
 
 
