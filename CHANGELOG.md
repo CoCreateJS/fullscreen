@@ -1,3 +1,10 @@
+## [1.13.2](https://github.com/CoCreate-app/CoCreate-fullscreen/compare/v1.13.1...v1.13.2) (2026-07-19)
+
+
+### Bug Fixes
+
+* set default branch to main ([2b16dc9](https://github.com/CoCreate-app/CoCreate-fullscreen/commit/2b16dc9422f70d899591c62a2bf26dbcc969d96c))
+
 ## [1.13.1](https://github.com/CoCreate-app/CoCreate-fullscreen/compare/v1.13.0...v1.13.1) (2026-07-17)
 
 
