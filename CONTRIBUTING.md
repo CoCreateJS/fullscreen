@@ -13,7 +13,7 @@ Fork the [project on Github](https://github.com/CoCreate-app/CoCreate-fullscreen
 ```
 git fullscreen https://github.com/contributor/CoCreate-fullscreen.git
 cd CoCreate-fullscreen
-git remote add upstream https://github.com/CoCreate-app/CoCreate-fullscreen.git
+git remote add upstream https://gitlab.com/cocreatejs/CoCreate-fullscreen.git
 ```
 
 ## Create a Topic Branch
