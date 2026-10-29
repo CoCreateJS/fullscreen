@@ -1,13 +1,3 @@
-[fullscreen] i:last-child {
-	display: none;
-}
-[fullscreen="true"] i:first-child {
-	display: none;
-}
-[fullscreen="true"] i:last-child {
-	display: unset;
-}
-
 :not(:root):fullscreen::backdrop {
 	background: none;
 }
