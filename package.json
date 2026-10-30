@@ -15,6 +15,35 @@
   "publishConfig": {
     "access": "public"
   },
+  "cocreate": {
+    "environment": [
+      "client"
+    ],
+    "interface": {
+      "schemaVersion": 1,
+      "summary": "Toggle any html element to view in fullscreen mode. Easy configuration and targeting using the fullscreen and target attribute.",
+      "source": "src/index.js",
+      "declarative": {
+        "selectors": [
+          "[fullscreen]"
+        ],
+        "attributes": [
+          {
+            "name": "fullscreen"
+          },
+          {
+            "name": "fullscreen-query"
+          }
+        ]
+      },
+      "api": {
+        "exports": [
+          "exitFullscreen",
+          "requestFullscreen"
+        ]
+      }
+    }
+  },
   "scripts": {
     "start": "webpack --config webpack.config.js",
     "build": "webpack --mode=production --config webpack.config.js",
