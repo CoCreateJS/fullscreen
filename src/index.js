@@ -1,8 +1,8 @@
 /*!
- * https://cocreate.app
- * https://github.com/CoCreate-app/Fullscreen_Toggle
+ * https://CoCreateJS.com
+ * https://github.com/CoCreateJS/Fullscreen_Toggle
  * Released under the MIT license
- * https://github.com/CoCreate-app/Fullscreen_Toggle/blob/master/LICENSE
+ * https://github.com/CoCreateJS/Fullscreen_Toggle/blob/master/LICENSE
  */
 import observer from "@cocreate/observer";
 import { queryElements } from "@cocreate/utils";
