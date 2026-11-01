@@ -49,6 +49,11 @@ document.addEventListener("fullscreenchange", (event) => {
 	}
 });
 
+/**
+ *
+ * @public
+ * @environment client
+ */
 function requestFullscreen(element) {
 	if (!document.fullscreenElement) {
 		if (element.requestFullscreen) {
@@ -65,6 +70,11 @@ function requestFullscreen(element) {
 	}
 }
 
+/**
+ *
+ * @public
+ * @environment client
+ */
 function exitFullscreen() {
 	if (document.fullscreenElement) {
 		if (document.exitFullscreen) {
@@ -101,3 +111,41 @@ observer.init({
 init();
 
 export default { requestFullscreen, exitFullscreen };
+
+/**
+ *
+ * @name fullscreen
+ * @kind member
+ * @attribute
+ * @environment client
+ */
+
+/**
+ *
+ * @name fullscreen-query
+ * @kind member
+ * @attribute
+ * @environment client
+ */
+
+/**
+ * Toggle any html element to view in fullscreen mode. Easy configuration and targeting using the fullscreen and target attribute.
+ *
+ * @module fullscreen
+ * @environment client
+ */
+
+/**
+ * Declarative selectors recognized by this module.
+ *
+ * @name declarative-selectors
+ * @kind member
+ * @selectors
+ * @environment client
+ * @example
+ * ```json
+ * [
+ *   "[fullscreen]"
+ * ]
+ * ```
+ */
