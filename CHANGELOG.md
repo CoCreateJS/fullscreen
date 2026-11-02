@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/CoCreateJS/fullscreen/compare/v1.13.3...v2.0.0) (2026-11-02)
+
+
+### chore
+
+* record package identity migration as breaking ([9bacb64](https://github.com/CoCreateJS/fullscreen/commit/9bacb64fd3c73bf79ca32075173bb943c257789e))
+
+
+### BREAKING CHANGES
+
+* Consumers must install @cocreate/fullscreen and use the renamed CoCreateJS repository identity; the previous package and repository identities are no longer supported.
+
 ## [1.13.3](https://github.com/CoCreateJS/fullscreen/compare/v1.13.2...v1.13.3) (2026-11-02)
 
 
