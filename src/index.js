@@ -115,16 +115,14 @@ export default { requestFullscreen, exitFullscreen };
 /**
  *
  * @name fullscreen
- * @kind member
- * @attribute
+ * @kind attribute
  * @environment client
  */
 
 /**
  *
  * @name fullscreen-query
- * @kind member
- * @attribute
+ * @kind attribute
  * @environment client
  */
 
