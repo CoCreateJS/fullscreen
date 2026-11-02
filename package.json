@@ -22,17 +22,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cocreatejs/CoCreate-fullscreen.git"
+    "url": "git+https://github.com/CoCreateJS/fullscreen.git"
   },
   "author": "CoCreate LLC",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/CoCreateJS/CoCreate-fullscreen/issues"
+    "url": "https://github.com/CoCreateJS/fullscreen/issues"
   },
   "homepage": "https://CoCreateJS.com/docs/fullscreen",
   "funding": {
     "type": "GitHub Sponsors ❤",
-    "url": "https://github.com/sponsors/CoCreate-app"
+    "url": "https://github.com/sponsors/CoCreateJS"
   },
   "main": "./src/index.js",
   "dependencies": {
