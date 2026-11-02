@@ -1,3 +1,17 @@
+## [1.13.3](https://github.com/CoCreateJS/fullscreen/compare/v1.13.2...v1.13.3) (2026-11-02)
+
+
+### Bug Fixes
+
+* add Deno specific entries to .gitignore ([ad4df26](https://github.com/CoCreateJS/fullscreen/commit/ad4df262ced034ceb28868bf707d280d7827ae52))
+* bump [@cocreate](https://github.com/cocreate) dependencies ([a81936b](https://github.com/CoCreateJS/fullscreen/commit/a81936b9de0c1e34b88e617e8d4beabd32c0fe60))
+* bump [@cocreate](https://github.com/cocreate) package versions ([9743c5e](https://github.com/CoCreateJS/fullscreen/commit/9743c5e98bf08eb4b48c85e43987179c825da1e0))
+* bump versions ([e893cf1](https://github.com/CoCreateJS/fullscreen/commit/e893cf1f1353c81141956c18316e19afeb6bad2b))
+* bump versions ([1caa369](https://github.com/CoCreateJS/fullscreen/commit/1caa369dc97602e9e57c3f1b9c4119f73a5edd4c))
+* remove trailing slash from node_modules entry in .gitignore ([a8d154d](https://github.com/CoCreateJS/fullscreen/commit/a8d154d67ffcedb75575c7bac6af629c7973ee48))
+* update git url ([232897d](https://github.com/CoCreateJS/fullscreen/commit/232897d59c85da937b8a8eb4fc222e3e4ea5aa7b))
+* update GitHub Actions to use latest versions and sync package.json description ([d80d776](https://github.com/CoCreateJS/fullscreen/commit/d80d776645e2c1bca4fde2c94e66fa16bdd2cace))
+
 ## [1.13.2](https://github.com/CoCreateJS/CoCreate-fullscreen/compare/v1.13.1...v1.13.2) (2026-07-19)
 
 
