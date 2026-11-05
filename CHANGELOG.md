@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/CoCreateJS/fullscreen/compare/v2.0.0...v2.0.1) (2026-11-05)
+
+
+### Bug Fixes
+
+* upgrade CoCreate dependencies to v2 ([0871be7](https://github.com/CoCreateJS/fullscreen/commit/0871be7c77cf9c0324653e3ad4811b657e9bd7e9))
+
 # [2.0.0](https://github.com/CoCreateJS/fullscreen/compare/v1.13.3...v2.0.0) (2026-11-02)
 
 
